@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "javascript-test-tasks",
+  "version": "0.0.1",
+  "description": "JavaScript test tasks",
+  "main": "index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "start:task-1": "node task-1.js",
+    "start:task-2": "node task-2.js",
+    "start:task-3": "node task-3.js",
+    "start:task-4": "node task-4.js"
+  },
+  "devDependencies": {
+    "@types/node": "^10.14.7",
+    "prettier": "1.17.1"
+  }
+}
